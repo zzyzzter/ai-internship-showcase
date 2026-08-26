@@ -1,5 +1,5 @@
-<img width="1905" height="941" alt="image" src="https://github.com/user-attachments/assets/577bc3f1-99c6-4411-903b-3189113c5a73" />
-<img width="1905" height="941" alt="image" src="https://github.com/user-attachments/assets/b25b0498-d4eb-427a-a19f-5096e07db9ce" />
+<img width="1863" height="957" alt="image" src="https://github.com/user-attachments/assets/707a8c2a-9bd4-49be-9f7b-28980b23c46f" />
+
 CareerConnect: AI Internship Showcase
 CareerConnect is a modern web application dashboard designed to help students and professionals track their internship applications and discover new, personalized opportunities. This repository (ai-internship-showcase) contains the frontend source code for the platform.
 
